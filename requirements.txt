@@ -1,0 +1,1 @@
+# Botul nu are nevoie de biblioteci externe.
